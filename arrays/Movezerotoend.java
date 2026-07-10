@@ -1,4 +1,4 @@
-public class Movezerotoend {
+public class MoveZeroToEnd {
     public static void main(String[] args) {
 
         int arr[] = {1, 0, 3, 4, 0, 6, 7, 0, 0, 4};

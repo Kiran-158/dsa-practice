@@ -1,4 +1,4 @@
-public class Linearsearchproblem{
+public class LinearSearchProblem{
     public static void main(String[] args) {
         int arr[] = {2,5,3,7,5,9,6};
         int target = 6;
