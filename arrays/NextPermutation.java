@@ -3,6 +3,7 @@ public class NextPermutation {
         int arr[] = {1,2,5,4,3,0,0};
         // int arr[] = {1,5,3,4,5,2,1};
 
+        //TC=O(n), SC=O(1)
         int index = -1;
         int n = arr.length;
         for(int i=n-2;i>=0;i--){
